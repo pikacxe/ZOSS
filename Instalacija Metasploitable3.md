@@ -2,7 +2,7 @@
 
 >   ## Potrebni alati
 >   ### [Vagrant][vagrant]
->   ### [VirtualBox-7.0][vb]❗❗ Isključivo verziju 7.0 ❗❗
+>   ### [VirtualBox-7.0][vb]❗❗ Isključivo verziju 7.0.X ❗❗
 
 ### Nakon instalacije potrebno je pokrenuti sledece komande u terminalu / powershell
 ### Linux users:
