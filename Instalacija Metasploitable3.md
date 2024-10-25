@@ -41,7 +41,7 @@ ip config
 > - ### Dobijenu adresu VM-a
 > - ### U tabu *Credentials* odabrati *SSH* i tip authentifikacije *password*. Kredencijali su i ovde vagrant:vagrant
 
-### Nakon kreiranja pokrenuti novo skeniranje (Metasploitable 3 VM treba biti aktivan pre pokretanja). Skeniranje tranje ~10 min
+### Nakon kreiranja pokrenuti novo skeniranje (Metasploitable 3 VM treba biti aktivan pre pokretanja). Skeniranje traje ~10 min
 
 [vb]: https://forum.virtualbox.org/wiki/Download_Old_Builds_7_0
 [vagrant]: https://developer.hashicorp.com/vagrant/install?product_intent=vagrant
